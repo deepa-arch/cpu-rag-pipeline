@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines document retrieval with large language models for answering questions.
+FastAPI is a modern Python web framework used for building APIs quickly.
+LLaMA 2 is a family of open-weight language models developed by Meta.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+CTransformers is a Python library to run GGUF-based LLMs on CPU using llama.cpp backend.
