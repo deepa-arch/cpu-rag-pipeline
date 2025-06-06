@@ -1,0 +1,8 @@
+# Ignore model files
+models/*.gguf
+
+# Ignore other common files
+__pycache__/
+*.pyc
+*.log
+*.env
